@@ -1,2 +1,7 @@
-# Student-Performance-Analysis
-This repository contains Python scripts for analyzing student performance data. The dataset includes features such as gender, parental level of education, and test scores in Math, Reading, and Writing. The analysis aims to explore patterns and insights into student performance based on these factors.
+This project analyzes the Heart Disease UCI dataset to predict heart disease using machine learning. Key steps include:
+
+EDA and Visualization: Exploring trends and relationships.
+Data Preprocessing: Cleaning and preparing data.
+Modeling: Training and evaluating predictive models like Logistic Regression and Random Forests.
+Insights: Highlighting key risk factors for heart disease.
+Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
